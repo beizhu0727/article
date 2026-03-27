@@ -150,6 +150,13 @@
         <mxCell id="9Aq93WK-870DARjinslL-54" edge="1" parent="1" source="9Aq93WK-870DARjinslL-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#6B6D6F;" target="9Aq93WK-870DARjinslL-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="cfaZyXWIstURwQRILVBQ-1" edge="1" parent="1" source="9Aq93WK-870DARjinslL-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;strokeColor=#009999;" target="9Aq93WK-870DARjinslL-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="860" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="9Aq93WK-870DARjinslL-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#cce7cd, #ededed);" value="&lt;font&gt;POST&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font&gt;/v1/hospitais/{hospital_id}/pacientes/checkout&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="250" x="526.88" y="510" as="geometry" />
         </mxCell>
@@ -179,6 +186,9 @@
         </mxCell>
         <mxCell id="9Aq93WK-870DARjinslL-56" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px; color: rgb(0, 0, 255);&quot;&gt;多语言异构语义对齐：葡萄牙语produto_id解析为英语productId&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="400" x="21.57" y="562.5" as="geometry" />
+        </mxCell>
+        <mxCell id="cfaZyXWIstURwQRILVBQ-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: rgb(0, 153, 153);&quot;&gt;业务状态流转：退房端点依赖入住&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="220" x="651.88" y="560" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
